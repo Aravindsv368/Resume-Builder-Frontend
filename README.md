@@ -9,3 +9,17 @@
 ### 🌐 RESTful API with protected routes
 ### ⚡ Built with React (Vite) & Tailwind CSS frontend
 ### ⚙️ Node.js, Express & MongoDB backend
+## 🛠️ Tech Stack
+### Frontend:
+  ### React 19 (Vite)
+  ### React Router DOM v7
+  ### Tailwind CSS
+  ### React Hot Toast
+  ### React Icons
+
+### Backend:
+  ### Node.js & Express
+  ### MongoDB & Mongoose
+  ### JWT Authentication
+  ### Multer (for file uploads)
+  ### Bcrypt.js (for password hashing)
